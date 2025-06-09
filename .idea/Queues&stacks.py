@@ -62,7 +62,7 @@ if __name__=='__main__':
     q.enqueue(33)
     q.enqueue(44)
     q.enqueue(55)
-    q.enqueue(66)
+    q.enqueue(67)
 
     print(q)
     print(len(q))
